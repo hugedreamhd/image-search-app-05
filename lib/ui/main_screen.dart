@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:image_search_app_05/data/model/image_item.dart';
-import 'package:image_search_app_05/data/repository/image_item_repository.dart';
 import 'package:image_search_app_05/ui/widget/image_item_widget.dart';
 import 'package:image_search_app_05/ui/widget/main_view_model.dart';
 
